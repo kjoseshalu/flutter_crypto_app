@@ -61,17 +61,11 @@ flutter run
 ```
 
 
-
---driver=test_driver/integration_test.dart --target=integration_test/main_test.dart
-```
-
 ## Resources
 [Flutter Docs](https://flutter.dev/docs)
 
 [Riverpod Docs](https://riverpod.dev/docs/getting_started/)
 
 [Cryptowatch Docs](https://docs.cryptowat.ch/rest-api/)
-
-
 
 
